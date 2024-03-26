@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👯 I’m looking to collaborate on **webapps**
+- 👯 I’m looking to collaborate on **web apps**
 
 - 📫 How to reach me **florczak.wojciechv@gmail.com**
 
