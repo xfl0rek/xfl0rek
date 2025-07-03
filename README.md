@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Wojciech
 ===========================================================================================================================
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h3 align="center">A passionate backend developer from Poland</h3>
 
 - 🌍 I'm based in **Lodz**
 
@@ -46,10 +46,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://github.com/xfl0rek">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfl0rek&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfl0rek" alt="xfl0rek" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xfl0rek&label=Profile%20views&color=0e75b6&style=flat" alt="xfl0rek" /> </p>
